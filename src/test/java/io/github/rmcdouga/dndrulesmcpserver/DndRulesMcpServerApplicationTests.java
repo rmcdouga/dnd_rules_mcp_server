@@ -1,4 +1,4 @@
-package io.github.rmcdouga.fgumcpserver;
+package io.github.rmcdouga.dndrulesmcpserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
